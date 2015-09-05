@@ -1,0 +1,158 @@
+[
+  {
+    "top": 34,
+    "left": 44,
+    "z_index": 0,
+    "tool": "circle",
+    "width": "100",
+    "height": "100",
+    "color": "#dedede",
+    "border": true
+  },
+  {
+    "top": 151,
+    "left": 26,
+    "z_index": 0,
+    "tool": "label",
+    "text": "Etunimi Sukunimi",
+    "size": 18,
+    "color": "#383838"
+  },
+  {
+    "top": 203,
+    "left": 29,
+    "z_index": 0,
+    "tool": "text",
+    "label": true,
+    "text": "Lapsi1",
+    "width": 200,
+    "height": 30
+  },
+  {
+    "top": 283,
+    "left": 28,
+    "z_index": 0,
+    "tool": "text",
+    "label": true,
+    "text": "Lapsi2",
+    "width": 200,
+    "height": 30
+  },
+  {
+    "top": 363,
+    "left": 27,
+    "z_index": 0,
+    "tool": "text",
+    "label": true,
+    "text": "Lapsi3",
+    "width": 200,
+    "height": 30
+  },
+  {
+    "top": 441,
+    "left": 27,
+    "z_index": 0,
+    "tool": "text",
+    "label": true,
+    "text": "Lapsi4",
+    "width": 200,
+    "height": 30
+  },
+  {
+    "top": 201,
+    "left": 194,
+    "z_index": 0,
+    "tool": "label",
+    "text": "Ikä",
+    "size": 18,
+    "color": "#383838"
+  },
+  {
+    "top": 281,
+    "left": 195,
+    "z_index": 0,
+    "tool": "label",
+    "text": "Ikä",
+    "size": 18,
+    "color": "#383838"
+  },
+  {
+    "top": 356,
+    "left": 192,
+    "z_index": 0,
+    "tool": "label",
+    "text": "Ikä",
+    "size": 18,
+    "color": "#383838"
+  },
+  {
+    "top": 431,
+    "left": 192,
+    "z_index": 0,
+    "tool": "label",
+    "text": "Ikä",
+    "size": 18,
+    "color": "#383838"
+  },
+  {
+    "top": 69,
+    "left": 244,
+    "z_index": 0,
+    "tool": "checkbox",
+    "checked": false,
+    "text": "Julkinen"
+  },
+  {
+    "top": 66,
+    "left": 367,
+    "z_index": 0,
+    "tool": "combobox",
+    "text": "Ulkoilu lasten kanssa",
+    "width": "300"
+  },
+  {
+    "top": 25,
+    "left": 387,
+    "z_index": 0,
+    "tool": "paragraph",
+    "text": "Valitaan toiminnan vaihtoehdoista",
+    "width": 300,
+    "background": "#dedede"
+  },
+  {
+    "top": 163,
+    "left": 367,
+    "z_index": 0,
+    "tool": "combobox",
+    "text": "Pikkukakkosen puisto (sijainti1,oletus)",
+    "width": "300"
+  },
+  {
+    "top": 317,
+    "left": 347,
+    "z_index": 0,
+    "tool": "rectangle",
+    "width": 307,
+    "height": 230,
+    "color": "#dedede",
+    "border": true
+  },
+  {
+    "top": 390,
+    "left": 395,
+    "z_index": 4,
+    "tool": "label",
+    "text": "Kartta",
+    "size": "30",
+    "color": "#383838"
+  },
+  {
+    "top": 131,
+    "left": 365,
+    "z_index": 0,
+    "tool": "label",
+    "text": "Sijainti",
+    "size": 18,
+    "color": "#383838"
+  }
+]
