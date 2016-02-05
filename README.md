@@ -1,4 +1,4 @@
-# Nettipalvelu, jossa törmäytetään samasta asiasta kiinnostuneet, höntsä, pelikaveri, leikkikaveri - 
+# Nettipalvelu, jossa törmäytetään samasta asiasta kiinnostuneet, höntsä, pelikaveri, leikkikaveri
 
 Nettipalvelun ideana on mahdollistaa tuttujen ja tuntemattomien kohtaaminen saman asian parissa.
 
