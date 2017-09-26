@@ -2,7 +2,7 @@
 
 Nettipalvelun ideana on mahdollistaa tuttujen ja tuntemattomien kohtaaminen saman asian parissa.
 
-Palvelun suunnitteluwiki: https://github.com/markosu/tormaytys-palvelu/wiki/
+Palvelun suunnitteluwiki: https://github.com/avoindata-yhdistaa/avoindata-yhdistaa/wiki/
 
 
 
